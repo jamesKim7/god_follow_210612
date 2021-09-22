@@ -1,0 +1,3464 @@
+{
+  "B7_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "BMT": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": ""
+      }
+    }
+  },
+  "BM_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": ""
+      }
+    }
+  },
+  "C01": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "CCEAQ01100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "StnlnSeqTp": ""
+      }
+    }
+  },
+  "CCEAQ06000": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "ChoicInptTpCode": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "FnoClssCode": "",
+        "PrdgrpCode": "",
+        "PrdtExecTpCode": "",
+        "FnoTrdPtnCode": "",
+        "SrtOrdNo2": "",
+        "EndNo": "",
+        "StnlnSeqTp": ""
+      }
+    }
+  },
+  "CCEAQ10100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QryTp": "",
+        "OrdAmt": "",
+        "RatVal": "",
+        "FnoIsuNo": "",
+        "BnsTpCode": "",
+        "OrdPrc": "",
+        "FnoOrdprcPtnCode": ""
+      }
+    }
+  },
+  "CCEAQ50600": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "BalEvalTp": "",
+        "FutsPrcEvalTp": ""
+      }
+    }
+  },
+  "CCEBQ10500": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": ""
+      }
+    }
+  },
+  "CD0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "CDPCQ04700": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "QryTp": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "SrtNo": "",
+        "PdptnCode": "",
+        "IsuLgclssCode": "",
+        "IsuNo": ""
+      }
+    }
+  },
+  "CEXAQ21100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "ChoicInptTpCode": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "PrdtExecTpCode": "",
+        "StnlnSeqTp": ""
+      }
+    }
+  },
+  "CEXAQ21200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QryTp": "",
+        "OrdAmt": "",
+        "RatVal": "",
+        "FnoIsuNo": "",
+        "BnsTpCode": "",
+        "OrdPrc": "",
+        "ErxPrcCndiTpCode": ""
+      }
+    }
+  },
+  "CEXAQ31100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "IsuCode": "",
+        "BalEvalTp": "",
+        "FutsPrcEvalTp": ""
+      }
+    }
+  },
+  "CEXAQ31200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "BalEvalTp": "",
+        "FutsPrcEvalTp": ""
+      }
+    }
+  },
+  "CEXAQ44200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "ChoicInptTpCode": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "PrdtExecTpCode": "",
+        "FnoTrdPtnCode": "",
+        "SrtOrdNo2": "",
+        "StnlnSeqTp": ""
+      }
+    }
+  },
+  "CEXAT11100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "AcntNo": "",
+        "Pwd": "",
+        "FnoIsuNo": "",
+        "BnsTpCode": "",
+        "ErxPrcCndiTpCode": "",
+        "OrdPrc": "",
+        "OrdQty": ""
+      }
+    }
+  },
+  "CEXAT11200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "OrgOrdNo": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "FnoIsuNo": "",
+        "OrdPrc": ""
+      }
+    }
+  },
+  "CEXAT11300": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "OrgOrdNo": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "FnoIsuNo": ""
+      }
+    }
+  },
+  "CFOAQ00600": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "FnoClssCode": "",
+        "PrdgrpCode": "",
+        "PrdtExecTpCode": "",
+        "StnlnSeqTp": "",
+        "CommdaCode": ""
+      }
+    }
+  },
+  "CFOAQ10100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QryTp": "",
+        "OrdAmt": "",
+        "RatVal": "",
+        "FnoIsuNo": "",
+        "BnsTpCode": "",
+        "OrdPrc": "",
+        "FnoOrdprcPtnCode": ""
+      }
+    }
+  },
+  "CFOAT00100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "AcntNo": "",
+        "Pwd": "",
+        "FnoIsuNo": "",
+        "BnsTpCode": "",
+        "FnoOrdprcPtnCode": "",
+        "OrdPrc": "",
+        "OrdQty": ""
+      }
+    }
+  },
+  "CFOAT00200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "AcntNo": "",
+        "Pwd": "",
+        "FnoIsuNo": "",
+        "OrgOrdNo": "",
+        "FnoOrdprcPtnCode": "",
+        "OrdPrc": "",
+        "MdfyQty": ""
+      }
+    }
+  },
+  "CFOAT00300": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "AcntNo": "",
+        "Pwd": "",
+        "FnoIsuNo": "",
+        "OrgOrdNo": "",
+        "CancQty": ""
+      }
+    }
+  },
+  "CFOBQ10500": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": ""
+      }
+    }
+  },
+  "CFOBQ10800": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "PrdgrpClssCode": "",
+        "ClssGrpCode": "",
+        "BaseYear": "",
+        "FstmmTpCode": ""
+      }
+    }
+  },
+  "CFOEQ11100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "BnsDt": ""
+      }
+    }
+  },
+  "CFOEQ82600": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "QryTp": "",
+        "StnlnSeqTp": "",
+        "FnoBalEvalTpCode": ""
+      }
+    }
+  },
+  "CFOFQ02400": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "RegMktCode": "",
+        "BuyDt": ""
+      }
+    }
+  },
+  "ChartExcel": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "indexid": "",
+        "indexname": "",
+        "indexparam": "",
+        "indexouttype": "",
+        "market": "",
+        "period": "",
+        "shcode": "",
+        "isexcelout": "",
+        "excelfilename": "",
+        "IsReal": ""
+      }
+    }
+  },
+  "ChartIndex": {
+    "Index": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "indexid": "",
+        "indexname": "",
+        "indexparam": "",
+        "market": "",
+        "period": "",
+        "shcode": "",
+        "qrycnt": "",
+        "ncnt": "",
+        "sdate": "",
+        "edate": "",
+        "Isamend": "",
+        "Isgab": "",
+        "IsReal": ""
+      }
+    }
+  },
+  "CIDBQ01400": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "QryTpCode": "",
+        "AcntNo": "",
+        "IsuCodeVal": "",
+        "BnsTpCode": "",
+        "OvrsDrvtOrdPrc": "",
+        "AbrdFutsOrdPtnCode": ""
+      }
+    }
+  },
+  "CIDBQ01500": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntTpCode": "",
+        "AcntNo": "",
+        "FcmAcntNo": "",
+        "Pwd": "",
+        "QryDt": "",
+        "BalTpCode": ""
+      }
+    }
+  },
+  "CIDBQ01800": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "IsuCodeVal": "",
+        "OrdDt": "",
+        "ThdayTpCode": "",
+        "OrdStatCode": "",
+        "BnsTpCode": "",
+        "QryTpCode": "",
+        "OrdPtnCode": "",
+        "OvrsDrvtFnoTpCode": ""
+      }
+    }
+  },
+  "CIDBQ02400": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "IsuCodeVal": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "ThdayTpCode": "",
+        "OrdStatCode": "",
+        "BnsTpCode": "",
+        "QryTpCode": "",
+        "OrdPtnCode": "",
+        "OvrsDrvtFnoTpCode": ""
+      }
+    }
+  },
+  "CIDBQ03000": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntTpCode": "",
+        "AcntNo": "",
+        "AcntPwd": "",
+        "TrdDt": ""
+      }
+    }
+  },
+  "CIDBQ05300": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "OvrsAcntTpCode": "",
+        "FcmAcntNo": "",
+        "AcntNo": "",
+        "AcntPwd": "",
+        "CrcyCode": ""
+      }
+    }
+  },
+  "CIDBT00100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "OrdDt": "",
+        "BrnCode": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "IsuCodeVal": "",
+        "FutsOrdTpCode": "",
+        "BnsTpCode": "",
+        "AbrdFutsOrdPtnCode": "",
+        "CrcyCode": "",
+        "OvrsDrvtOrdPrc": "",
+        "CndiOrdPrc": "",
+        "OrdQty": "",
+        "PrdtCode": "",
+        "DueYymm": "",
+        "ExchCode": ""
+      }
+    }
+  },
+  "CIDBT00900": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "OrdDt": "",
+        "RegBrnNo": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "OvrsFutsOrgOrdNo": "",
+        "IsuCodeVal": "",
+        "FutsOrdTpCode": "",
+        "BnsTpCode": "",
+        "FutsOrdPtnCode": "",
+        "CrcyCodeVal": "",
+        "OvrsDrvtOrdPrc": "",
+        "CndiOrdPrc": "",
+        "OrdQty": "",
+        "OvrsDrvtPrdtCode": "",
+        "DueYymm": "",
+        "ExchCode": ""
+      }
+    }
+  },
+  "CIDBT01000": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "OrdDt": "",
+        "BrnNo": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "IsuCodeVal": "",
+        "OvrsFutsOrgOrdNo": "",
+        "FutsOrdTpCode": "",
+        "PrdtTpCode": "",
+        "ExchCode": ""
+      }
+    }
+  },
+  "CIDEQ00800": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "AcntPwd": "",
+        "TrdDt": ""
+      }
+    }
+  },
+  "CLNAQ00100": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "QryTp": "",
+        "IsuNo": "",
+        "SecTpCode": "",
+        "LoanIntrstGrdCode": "",
+        "LoanTp": ""
+      }
+    }
+  },
+  "CM0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "CM1": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "CM2": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "CSPAQ00600": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "LoanDtlClssCode": "",
+        "IsuNo": "",
+        "OrdPrc": "",
+        "CommdaCode": ""
+      }
+    }
+  },
+  "CSPAQ12200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "MgmtBrnNo": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "BalCreTp": ""
+      }
+    }
+  },
+  "CSPAQ12300": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "BalCreTp": "",
+        "CmsnAppTpCode": "",
+        "D2balBaseQryTp": "",
+        "UprcTpCode": ""
+      }
+    }
+  },
+  "CSPAQ13700": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "OrdMktCode": "",
+        "BnsTpCode": "",
+        "IsuNo": "",
+        "ExecYn": "",
+        "OrdDt": "",
+        "SrtOrdNo2": "",
+        "BkseqTpCode": "",
+        "OrdPtnCode": ""
+      }
+    }
+  },
+  "CSPAQ22200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "MgmtBrnNo": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "BalCreTp": ""
+      }
+    }
+  },
+  "CSPAT00600": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "AcntNo": "",
+        "InptPwd": "",
+        "IsuNo": "",
+        "OrdQty": "",
+        "OrdPrc": "",
+        "BnsTpCode": "",
+        "OrdprcPtnCode": "",
+        "MgntrnCode": "",
+        "LoanDt": "",
+        "OrdCndiTpCode": ""
+      }
+    }
+  },
+  "CSPAT00700": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "OrgOrdNo": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "IsuNo": "",
+        "OrdQty": "",
+        "OrdprcPtnCode": "",
+        "OrdCndiTpCode": "",
+        "OrdPrc": ""
+      }
+    }
+  },
+  "CSPAT00800": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "OrgOrdNo": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "IsuNo": "",
+        "OrdQty": ""
+      }
+    }
+  },
+  "CSPBQ00200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "BnsTpCode": "",
+        "AcntNo": "",
+        "InptPwd": "",
+        "IsuNo": "",
+        "OrdPrc": "",
+        "RegCommdaCode": ""
+      }
+    }
+  },
+  "DH1": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "DHA": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "DK3": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "DS3": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "DVI": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "EC0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "optcode": ""
+      }
+    }
+  },
+  "EH0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "optcode": ""
+      }
+    }
+  },
+  "ESN": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "EU0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "EU1": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "EU2": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "FC0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "FD0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "FH0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "FOCCQ33600": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "TermTp": ""
+      }
+    }
+  },
+  "FOCCQ33700": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "AcntNo": "",
+        "Pwd": "",
+        "QrySrtDt": "",
+        "QryEndDt": "",
+        "QryTp": "",
+        "BaseAmtTp": "",
+        "QryTermTp": "",
+        "PnlCalcTpCode": ""
+      }
+    }
+  },
+  "FX0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "H01": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "H1_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "H2_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "h2_4ELW": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "h3_4ELW": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "HA_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "HB_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "I5_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "IJ_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": ""
+      }
+    }
+  },
+  "JC0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "JD0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "JH0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "JIF": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "jangubun": ""
+      }
+    }
+  },
+  "JX0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "K1_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "k1_4ELW": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "K3_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "KH_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "KM_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "KS_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "MK2": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "symbol": ""
+      }
+    }
+  },
+  "MMDAQ91200": {
+    "InBlock1": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "RecCnt": "",
+        "IsuLgclssCode": "",
+        "IsuMdclssCode": ""
+      }
+    }
+  },
+  "NC0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "NH0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "NWS": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "nwcode": ""
+      }
+    }
+  },
+  "O01": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "o3101": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "o3103": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "ncnt": "",
+        "readcnt": "",
+        "cts_date": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "o3104": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "shcode": "",
+        "date": ""
+      }
+    }
+  },
+  "o3105": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "symbol": ""
+      }
+    }
+  },
+  "o3106": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "symbol": ""
+      }
+    }
+  },
+  "o3107": {
+    "InBlock": {
+      "type": "occurs",
+      "columns_names_and_values": {
+        "symbol": ""
+      }
+    }
+  },
+  "o3108": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "qrycnt": "",
+        "sdate": "",
+        "edate": "",
+        "cts_date": ""
+      }
+    }
+  },
+  "o3116": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "shcode": "",
+        "readcnt": "",
+        "cts_seq": ""
+      }
+    }
+  },
+  "o3117": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "cts_seq": "",
+        "cts_daygb": ""
+      }
+    }
+  },
+  "o3121": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "MktGb": "",
+        "BscGdsCd": ""
+      }
+    }
+  },
+  "o3123": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "mktgb": "",
+        "shcode": "",
+        "ncnt": "",
+        "readcnt": "",
+        "cts_date": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "o3125": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "mktgb": "",
+        "symbol": ""
+      }
+    }
+  },
+  "o3126": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "mktgb": "",
+        "symbol": ""
+      }
+    }
+  },
+  "o3127": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "nrec": ""
+      }
+    },
+    "InBlock1": {
+      "type": "occurs",
+      "columns_names_and_values": {
+        "mktgb": "",
+        "symbol": ""
+      }
+    }
+  },
+  "o3128": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "mktgb": "",
+        "shcode": "",
+        "gubun": "",
+        "qrycnt": "",
+        "sdate": "",
+        "edate": "",
+        "cts_date": ""
+      }
+    }
+  },
+  "o3136": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "mktgb": "",
+        "shcode": "",
+        "readcnt": "",
+        "cts_seq": ""
+      }
+    }
+  },
+  "o3137": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "mktgb": "",
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "cts_seq": "",
+        "cts_daygb": ""
+      }
+    }
+  },
+  "o3139": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "mktgb": "",
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "cts_seq": "",
+        "cts_daygb": ""
+      }
+    }
+  },
+  "OC0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "optcode": ""
+      }
+    }
+  },
+  "OD0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "optcode": ""
+      }
+    }
+  },
+  "OH0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "optcode": ""
+      }
+    }
+  },
+  "OK_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "OMG": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "optcode": ""
+      }
+    }
+  },
+  "OVC": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "symbol": ""
+      }
+    }
+  },
+  "OVH": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "symbol": ""
+      }
+    }
+  },
+  "OX0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "optcode": ""
+      }
+    }
+  },
+  "PH_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "PM_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "S2_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "s2_4ELW": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "S3_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "s3_4ELW": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "S4_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "s4_ELW": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "SC0": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "SC1": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "SC2": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "SC3": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "SC4": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "SHC": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "updnlmtgubun": ""
+      }
+    }
+  },
+  "SHD": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "updnlmtgubun": ""
+      }
+    }
+  },
+  "SHI": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "updnlmtgubun": ""
+      }
+    }
+  },
+  "SHO": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "updnlmtgubun": ""
+      }
+    }
+  },
+  "t0150": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "accno": "",
+        "cts_medosu": "",
+        "cts_expcode": "",
+        "cts_price": "",
+        "cts_middiv": ""
+      }
+    }
+  },
+  "t0151": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "date": "",
+        "accno": "",
+        "cts_medosu": "",
+        "cts_expcode": "",
+        "cts_price": "",
+        "cts_middiv": ""
+      }
+    }
+  },
+  "t0167": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "id": ""
+      }
+    }
+  },
+  "t0424": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "accno": "",
+        "passwd": "",
+        "prcgb": "",
+        "chegb": "",
+        "dangb": "",
+        "charge": "",
+        "cts_expcode": ""
+      }
+    }
+  },
+  "t0425": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "accno": "",
+        "passwd": "",
+        "expcode": "",
+        "chegb": "",
+        "medosu": "",
+        "sortgb": "",
+        "cts_ordno": ""
+      }
+    }
+  },
+  "t0434": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "accno": "",
+        "passwd": "",
+        "expcode": "",
+        "chegb": "",
+        "sortgb": "",
+        "cts_ordno": ""
+      }
+    }
+  },
+  "t0441": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "accno": "",
+        "passwd": "",
+        "cts_expcode": "",
+        "cts_medocd": ""
+      }
+    }
+  },
+  "t1101": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1102": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1104": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "code": "",
+        "nrec": ""
+      }
+    },
+    "InBlock1": {
+      "type": "occurs",
+      "columns_names_and_values": {
+        "indx": "",
+        "gubn": "",
+        "dat1": "",
+        "dat2": ""
+      }
+    }
+  },
+  "t1105": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1301": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "cvolume": "",
+        "starttime": "",
+        "endtime": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t1302": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "time": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t1305": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "dwmcode": "",
+        "date": "",
+        "idx": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t1308": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "starttime": "",
+        "endtime": "",
+        "bun_term": ""
+      }
+    }
+  },
+  "t1310": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "daygb": "",
+        "timegb": "",
+        "shcode": "",
+        "endtime": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t1403": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "styymm": "",
+        "enyymm": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1404": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "jongchk": "",
+        "cts_shcode": ""
+      }
+    }
+  },
+  "t1405": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "jongchk": "",
+        "cts_shcode": ""
+      }
+    }
+  },
+  "t1410": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "cts_shcode": ""
+      }
+    }
+  },
+  "t1411": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "jongchk": "",
+        "jkrate": "",
+        "shcode": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1422": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "qrygb": "",
+        "gubun": "",
+        "jnilgubun": "",
+        "sign": "",
+        "jc_num": "",
+        "sprice": "",
+        "eprice": "",
+        "volume": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1427": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "qrygb": "",
+        "gubun": "",
+        "signgubun": "",
+        "diff": "",
+        "jc_num": "",
+        "sprice": "",
+        "eprice": "",
+        "volume": "",
+        "idx": "",
+        "jshex": ""
+      }
+    }
+  },
+  "t1442": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "type1": "",
+        "type2": "",
+        "type3": "",
+        "jc_num": "",
+        "sprice": "",
+        "eprice": "",
+        "volume": "",
+        "idx": "",
+        "jc_num2": ""
+      }
+    }
+  },
+  "t1444": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1449": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "dategb": ""
+      }
+    }
+  },
+  "t1452": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "jnilgubun": "",
+        "sdiff": "",
+        "ediff": "",
+        "jc_num": "",
+        "sprice": "",
+        "eprice": "",
+        "volume": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1463": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "jnilgubun": "",
+        "jc_num": "",
+        "sprice": "",
+        "eprice": "",
+        "volume": "",
+        "idx": "",
+        "jc_num2": ""
+      }
+    }
+  },
+  "t1471": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "time": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t1475": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "vptype": "",
+        "datacnt": "",
+        "date": "",
+        "time": "",
+        "rankcnt": "",
+        "gubun": ""
+      }
+    }
+  },
+  "t1485": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": "",
+        "gubun": ""
+      }
+    }
+  },
+  "t1486": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "cts_time": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t1488": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "sign": "",
+        "jgubun": "",
+        "jongchk": "",
+        "idx": "",
+        "volume": "",
+        "yesprice": "",
+        "yeeprice": "",
+        "yevolume": ""
+      }
+    }
+  },
+  "t1489": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "jgubun": "",
+        "jongchk": "",
+        "idx": "",
+        "yesprice": "",
+        "yeeprice": "",
+        "yevolume": ""
+      }
+    }
+  },
+  "t1511": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": ""
+      }
+    }
+  },
+  "t1514": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": "",
+        "gubun1": "",
+        "gubun2": "",
+        "cts_date": "",
+        "cnt": "",
+        "rate_gbn": ""
+      }
+    }
+  },
+  "t1516": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": "",
+        "gubun": "",
+        "shcode": ""
+      }
+    }
+  },
+  "t1531": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "tmname": "",
+        "tmcode": ""
+      }
+    }
+  },
+  "t1532": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1533": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "chgdate": ""
+      }
+    }
+  },
+  "t1537": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "tmcode": ""
+      }
+    }
+  },
+  "t1601": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun1": "",
+        "gubun2": "",
+        "gubun3": "",
+        "gubun4": ""
+      }
+    }
+  },
+  "t1602": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "market": "",
+        "upcode": "",
+        "gubun1": "",
+        "gubun2": "",
+        "cts_time": "",
+        "cts_idx": "",
+        "cnt": "",
+        "gubun3": ""
+      }
+    }
+  },
+  "t1603": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "market": "",
+        "gubun1": "",
+        "gubun2": "",
+        "cts_time": "",
+        "cts_idx": "",
+        "cnt": "",
+        "upcode": ""
+      }
+    }
+  },
+  "t1615": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun1": "",
+        "gubun2": ""
+      }
+    }
+  },
+  "t1617": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun1": "",
+        "gubun2": "",
+        "gubun3": "",
+        "cts_date": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t1621": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": "",
+        "nmin": "",
+        "cnt": "",
+        "bgubun": ""
+      }
+    }
+  },
+  "t1631": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "dgubun": "",
+        "sdate": "",
+        "edate": ""
+      }
+    }
+  },
+  "t1632": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "gubun1": "",
+        "gubun2": "",
+        "gubun3": "",
+        "date": "",
+        "time": ""
+      }
+    }
+  },
+  "t1633": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "gubun1": "",
+        "gubun2": "",
+        "gubun3": "",
+        "fdate": "",
+        "tdate": "",
+        "gubun4": "",
+        "date": ""
+      }
+    }
+  },
+  "t1636": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "gubun1": "",
+        "gubun2": "",
+        "shcode": "",
+        "cts_idx": ""
+      }
+    }
+  },
+  "t1637": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun1": "",
+        "gubun2": "",
+        "shcode": "",
+        "date": "",
+        "time": "",
+        "cts_idx": ""
+      }
+    }
+  },
+  "t1638": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun1": "",
+        "shcode": "",
+        "gubun2": ""
+      }
+    }
+  },
+  "t1640": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "t1662": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "gubun1": "",
+        "gubun3": ""
+      }
+    }
+  },
+  "t1664": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "mgubun": "",
+        "vagubun": "",
+        "bdgubun": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t1665": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "market": "",
+        "upcode": "",
+        "gubun2": "",
+        "gubun3": "",
+        "from_date": "",
+        "to_date": ""
+      }
+    }
+  },
+  "t1701": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "fromdt": "",
+        "todt": "",
+        "prapp": "",
+        "prgubun": "",
+        "orggubun": "",
+        "frggubun": ""
+      }
+    }
+  },
+  "t1702": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "todt": "",
+        "volvalgb": "",
+        "msmdgb": "",
+        "cumulgb": "",
+        "cts_date": "",
+        "cts_idx": ""
+      }
+    }
+  },
+  "t1717": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "fromdt": "",
+        "todt": ""
+      }
+    }
+  },
+  "t1752": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "traddate1": "",
+        "traddate2": "",
+        "fwgubun1": "",
+        "cts_idx": ""
+      }
+    }
+  },
+  "t1764": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun1": ""
+      }
+    }
+  },
+  "t1771": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "tradno": "",
+        "gubun1": "",
+        "traddate1": "",
+        "traddate2": "",
+        "cts_idx": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t1809": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "jmGb": "",
+        "jmcode": "",
+        "cts": ""
+      }
+    }
+  },
+  "t1825": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "search_cd": "",
+        "gubun": ""
+      }
+    }
+  },
+  "t1826": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "search_gb": ""
+      }
+    }
+  },
+  "t1857": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "sRealFlag": "",
+        "sSearchFlag": "",
+        "query_index": ""
+      }
+    }
+  },
+  "t1866": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "user_id": "",
+        "gb": "",
+        "group_name": "",
+        "cont": "",
+        "contkey": ""
+      }
+    }
+  },
+  "t1901": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1902": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "time": ""
+      }
+    }
+  },
+  "t1903": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "date": ""
+      }
+    }
+  },
+  "t1904": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "date": "",
+        "sgb": ""
+      }
+    }
+  },
+  "t1906": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1921": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "date": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1926": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1927": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "date": "",
+        "sdate": "",
+        "edate": ""
+      }
+    }
+  },
+  "t1941": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "sdate": "",
+        "edate": ""
+      }
+    }
+  },
+  "t1950": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1951": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "cvolume": "",
+        "starttime": "",
+        "endtime": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t1954": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "date": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t1955": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "chkitem": "",
+        "cbitem": "",
+        "chkissuer": "",
+        "cbissuer": "",
+        "chkcallput": "",
+        "cbcallput": "",
+        "chkexec": "",
+        "cbexec": "",
+        "chktype": "",
+        "cbtype": "",
+        "chksettle": "",
+        "cbsettle": "",
+        "chklast": "",
+        "cblast": "",
+        "chkelwexec": "",
+        "elwexecs": "",
+        "elwexece": "",
+        "chkvolume": "",
+        "volumes": "",
+        "volumee": "",
+        "chkrate": "",
+        "rates": "",
+        "ratee": "",
+        "chkpremium": "",
+        "premiums": "",
+        "premiume": "",
+        "chkparity": "",
+        "paritys": "",
+        "paritye": "",
+        "chkberate": "",
+        "berates": "",
+        "beratee": "",
+        "chkcapt": "",
+        "capts": "",
+        "capte": "",
+        "chkegearing": "",
+        "egearings": "",
+        "egearinge": "",
+        "chkgearing": "",
+        "gearings": "",
+        "gearinge": "",
+        "chkdelta": "",
+        "deltas": "",
+        "deltae": "",
+        "chktheta": "",
+        "thetas": "",
+        "thetae": "",
+        "chkduedate": "",
+        "duedates": "",
+        "duedatee": "",
+        "chkkoba": "",
+        "cbkoba": ""
+      }
+    }
+  },
+  "t1956": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1958": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode1": "",
+        "shcode2": ""
+      }
+    }
+  },
+  "t1959": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1960": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "ggubun": "",
+        "itemcode": "",
+        "lastdate": "",
+        "exgubun": "",
+        "sprice": "",
+        "eprice": "",
+        "volume": "",
+        "sjanday": "",
+        "ejanday": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1961": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "ggubun": "",
+        "itemcode": "",
+        "lastdate": "",
+        "exgubun": "",
+        "sprice": "",
+        "eprice": "",
+        "volume": "",
+        "sjanday": "",
+        "ejanday": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1964": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "item": "",
+        "issuercd": "",
+        "lastmonth": "",
+        "elwopt": "",
+        "atmgubun": "",
+        "elwtype": "",
+        "settletype": "",
+        "elwexecgubun": "",
+        "fromrat": "",
+        "torat": "",
+        "volume": ""
+      }
+    }
+  },
+  "t1966": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "ggubun": "",
+        "itemcode": "",
+        "lastdate": "",
+        "exgubun": "",
+        "sprice": "",
+        "eprice": "",
+        "volume": "",
+        "sjanday": "",
+        "ejanday": "",
+        "idx": ""
+      }
+    }
+  },
+  "t1971": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1972": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1973": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t1974": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t1981": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "mkt_gb": ""
+      }
+    }
+  },
+  "t2101": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": ""
+      }
+    }
+  },
+  "t2105": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t2106": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "code": "",
+        "nrec": ""
+      }
+    },
+    "InBlock1": {
+      "type": "occurs",
+      "columns_names_and_values": {
+        "indx": "",
+        "gubn": "",
+        "dat1": "",
+        "dat2": ""
+      }
+    }
+  },
+  "t2201": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cvolume": "",
+        "stime": "",
+        "etime": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t2203": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "futcheck": "",
+        "date": "",
+        "cts_code": "",
+        "lastdate": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t2209": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cgubun": "",
+        "bgubun": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t2210": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cvolume": "",
+        "stime": "",
+        "etime": ""
+      }
+    }
+  },
+  "t2301": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "yyyymm": "",
+        "gubun": ""
+      }
+    }
+  },
+  "t2405": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "bgubun": "",
+        "nmin": "",
+        "etime": "",
+        "hgubun": "",
+        "cnt": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t2421": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "bdgubun": "",
+        "nmin": "",
+        "tcgubun": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t2541": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "eitem": "",
+        "market": "",
+        "upcode": "",
+        "gubun1": "",
+        "gubun2": "",
+        "cts_time": "",
+        "cts_idx": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t2545": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "eitem": "",
+        "sgubun": "",
+        "upcode": "",
+        "nmin": "",
+        "cnt": "",
+        "bgubun": ""
+      }
+    }
+  },
+  "t2801": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": ""
+      }
+    }
+  },
+  "t2802": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t2804": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cvolume": "",
+        "stime": "",
+        "etime": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t2805": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "futcheck": "",
+        "date": "",
+        "cts_code": "",
+        "lastdate": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t2813": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun1": "",
+        "gubun2": "",
+        "cts_time": "",
+        "cts_idx": "",
+        "cnt": "",
+        "gubun3": ""
+      }
+    }
+  },
+  "t2814": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun1": "",
+        "gubun2": "",
+        "from_date": "",
+        "to_date": ""
+      }
+    }
+  },
+  "t2816": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t2830": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": ""
+      }
+    }
+  },
+  "t2831": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t2832": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cvolume": "",
+        "stime": "",
+        "etime": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t2833": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "futcheck": "",
+        "date": "",
+        "cts_code": "",
+        "lastdate": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t2835": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "yyyymm": ""
+      }
+    }
+  },
+  "t3102": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "sNewsno": ""
+      }
+    }
+  },
+  "t3202": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "date": ""
+      }
+    }
+  },
+  "t3320": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gicode": ""
+      }
+    }
+  },
+  "t3341": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": "",
+        "gubun1": "",
+        "gubun2": "",
+        "idx": ""
+      }
+    }
+  },
+  "t3401": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun1": "",
+        "tradno": "",
+        "cts_date": ""
+      }
+    }
+  },
+  "t3518": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "kind": "",
+        "symbol": "",
+        "cnt": "",
+        "jgbn": "",
+        "nmin": "",
+        "cts_date": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t3521": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "kind": "",
+        "symbol": ""
+      }
+    }
+  },
+  "t4201": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "tdgb": "",
+        "sdate": "",
+        "edate": "",
+        "cts_date": "",
+        "cts_time": "",
+        "cts_daygb": ""
+      }
+    }
+  },
+  "t4203": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "tdgb": "",
+        "sdate": "",
+        "edate": "",
+        "cts_date": "",
+        "cts_time": "",
+        "cts_daygb": ""
+      }
+    }
+  },
+  "t8401": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t8402": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": ""
+      }
+    }
+  },
+  "t8403": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "t8404": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cvolume": "",
+        "stime": "",
+        "etime": "",
+        "cts_time": ""
+      }
+    }
+  },
+  "t8405": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "futcheck": "",
+        "date": "",
+        "cts_code": "",
+        "lastdate": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t8406": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cgubun": "",
+        "bgubun": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t8407": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "nrec": "",
+        "shcode": ""
+      }
+    }
+  },
+  "t8408": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cgubun": "",
+        "bgubun": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t8409": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "bdgubun": "",
+        "nmin": "",
+        "tcgubun": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t8411": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "nday": "",
+        "sdate": "",
+        "stime": "",
+        "edate": "",
+        "etime": "",
+        "cts_date": "",
+        "cts_time": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8412": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "nday": "",
+        "sdate": "",
+        "stime": "",
+        "edate": "",
+        "etime": "",
+        "cts_date": "",
+        "cts_time": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8413": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "qrycnt": "",
+        "sdate": "",
+        "edate": "",
+        "cts_date": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8414": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "nday": "",
+        "sdate": "",
+        "stime": "",
+        "edate": "",
+        "etime": "",
+        "cts_date": "",
+        "cts_time": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8415": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "nday": "",
+        "sdate": "",
+        "stime": "",
+        "edate": "",
+        "etime": "",
+        "cts_date": "",
+        "cts_time": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8416": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "qrycnt": "",
+        "sdate": "",
+        "edate": "",
+        "cts_date": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8417": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "nday": "",
+        "sdate": "",
+        "stime": "",
+        "edate": "",
+        "etime": "",
+        "cts_date": "",
+        "cts_time": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8418": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "ncnt": "",
+        "qrycnt": "",
+        "nday": "",
+        "sdate": "",
+        "stime": "",
+        "edate": "",
+        "etime": "",
+        "cts_date": "",
+        "cts_time": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8419": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": "",
+        "gubun": "",
+        "qrycnt": "",
+        "sdate": "",
+        "edate": "",
+        "cts_date": "",
+        "comp_yn": ""
+      }
+    }
+  },
+  "t8424": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun1": ""
+      }
+    }
+  },
+  "t8425": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t8426": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t8427": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "fo_gbn": "",
+        "yyyy": "",
+        "mm": "",
+        "cp_gbn": "",
+        "actprice": "",
+        "focode": "",
+        "dt_gbn": "",
+        "min_term": "",
+        "date": "",
+        "time": ""
+      }
+    }
+  },
+  "t8428": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "fdate": "",
+        "tdate": "",
+        "gubun": "",
+        "key_date": "",
+        "upcode": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t8429": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "focode": "",
+        "cgubun": "",
+        "bgubun": "",
+        "cnt": ""
+      }
+    }
+  },
+  "t8430": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "t8431": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t8432": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "t8433": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t8434": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "qrycnt": "",
+        "focode": ""
+      }
+    }
+  },
+  "t8435": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "t8436": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "t8437": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "t9905": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t9907": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t9942": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t9943": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "t9944": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "dummy": ""
+      }
+    }
+  },
+  "t9945": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "gubun": ""
+      }
+    }
+  },
+  "TC1": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "TC2": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "TC3": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {}
+    }
+  },
+  "VI_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "WOC": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "symbol": ""
+      }
+    }
+  },
+  "WOH": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "symbol": ""
+      }
+    }
+  },
+  "YC3": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "YFC": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "YJC": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "futcode": ""
+      }
+    }
+  },
+  "YJ_": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "upcode": ""
+      }
+    }
+  },
+  "YK3": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "YOC": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "optcode": ""
+      }
+    }
+  },
+  "YS3": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  },
+  "Ys3_4ELW": {
+    "InBlock": {
+      "type": "non_occurs",
+      "columns_names_and_values": {
+        "shcode": ""
+      }
+    }
+  }
+}
